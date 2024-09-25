@@ -1,0 +1,7 @@
+C:\Users\cigo_\source\repos\checkSystem\checkSystem\bin\Debug\checkSystem.exe.config
+C:\Users\cigo_\source\repos\checkSystem\checkSystem\bin\Debug\checkSystem.exe
+C:\Users\cigo_\source\repos\checkSystem\checkSystem\bin\Debug\checkSystem.pdb
+C:\Users\cigo_\source\repos\checkSystem\checkSystem\obj\Debug\checkSystem.csproj.AssemblyReference.cache
+C:\Users\cigo_\source\repos\checkSystem\checkSystem\obj\Debug\checkSystem.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\checkSystem\checkSystem\obj\Debug\checkSystem.exe
+C:\Users\cigo_\source\repos\checkSystem\checkSystem\obj\Debug\checkSystem.pdb
