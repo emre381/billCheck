@@ -1,6 +1,4 @@
-Bu C# programı bir restoran sipariş sistemini simüle etmektedir. Kullanıcı belirli menü öğelerini seçtikçe, siparişlerin toplam ücreti hesaplanır ve son olarak toplam tutar ekrana yazdırılır. Programın çalışmasını açıklayan bir **README** dosyası aşağıda yer almaktadır:
 
----
 
 # CheckSystem - Restaurant Ordering Program
 
@@ -71,4 +69,3 @@ bill is = 16
 
 ---
 
-Bu README dosyası, kodun nasıl çalıştığını ve temel işlevlerini açıklamaktadır. Program, kullanıcının basit bir menü üzerinden sipariş vermesine ve toplamı görmesine olanak sağlar.
